@@ -1,4 +1,3 @@
-# ye glowing ha
 import streamlit as st
 import phonenumbers
 from phonenumbers import timezone, geocoder, carrier, region_code_for_number
